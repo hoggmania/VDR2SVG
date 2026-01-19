@@ -1,4 +1,4 @@
-# code-with-quarkus
+# CycloneDX VDR to SVG
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
